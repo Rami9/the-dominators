@@ -18,6 +18,7 @@ public class hello extends MIDlet implements CommandListener {
    Form form =new Form("1er APP");
    Form form2 =new Form("2app");
 Form form3 =new Form("3rd");
+String x; 
 
    Command cmd =new Command ("mrigel",Command.OK,0);
    Command cm=new Command("arja3 ",Command.BACK,0);
